@@ -9,6 +9,7 @@
 <a href="input.html">text形式の送信練習</a>
 <a href="radio.html">ラジオボタンの送信練習</a>
 <a href="checkbox.html">チェックボックスの送信練習</a>
+<a href="hidden.html">ヒドゥンの送信練習</a>
 
 </body>
 </html>
